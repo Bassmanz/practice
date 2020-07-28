@@ -1,0 +1,67 @@
+.cap{
+    background-color:#908f8f;
+    height: 300px;
+}
+.demo1{
+    background-color: #c4c4c4;
+    height: 250px;
+   
+   
+}
+.demo2{
+    background-color:#c4c4c4;
+    height: 250px;
+   
+}
+.demo1,.demo2{
+    margin: 10px;
+}
+.box1{
+    background-color: #c4c4c4;
+    height: 200px;
+}
+.box2{
+    background-color: #c4c4c4;
+    height: 200px;
+}
+.box3{
+    background-color: #c4c4c4;
+    height: 200px;
+}
+.box1,.box2,.box3{
+    margin: 10px;
+}
+.shoe{
+    background-color: #908f8f;
+    height: 300px;
+}
+.bag1{
+    background-color: #c4c4c4;
+    height: 200px;
+}
+.bag2{
+    background-color: #c4c4c4;
+    height: 200px;
+}
+.bag3{
+    background-color: #c4c4c4;
+    height: 200px;
+}
+.bag4{
+    background-color: #c4c4c4;
+    height: 200px;
+}
+.bag1,.bag2,.bag3,.bag4{
+    margin: 10px;
+}
+
+.stick1,.stick2,.stick3{
+    background-color: #908f8f;
+    height: 200px;
+    width: 200px;
+}
+.row{
+    padding: 0;
+    margin: 0;
+}
+
